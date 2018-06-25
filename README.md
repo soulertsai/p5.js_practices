@@ -5,11 +5,11 @@ Write down the problems, solutions and what I've learned.
 
 ## The Whole Stuffs
 
-1. [01_noise_wave](/01_noise_wave)
-2. [02_2D_noise](/02_2D_noise)
-3. [03_perlin_field](/03_perlin_field)
-4. [04_breathing_dot](/04_breathing_dot)
-5. [05_blue_dye](/05_blue_dye)
-6. [06_venation_generation](//06_venation_generation)
-7. [07_tri_sub](/07_tri_sub)
-8. [08_polygon](/08_polygon)
+1. [01_noise_wave](/p5.js_practices/01_noise_wave)
+2. [02_2D_noise](/p5.js_practices/02_2D_noise)
+3. [03_perlin_field](/p5.js_practices/03_perlin_field)
+4. [04_breathing_dot](/p5.js_practices/04_breathing_dot)
+5. [05_blue_dye](/p5.js_practices/05_blue_dye)
+6. [06_venation_generation](/p5.js_practices/06_venation_generation)
+7. [07_tri_sub](/p5.js_practices/07_tri_sub)
+8. [08_polygon](/p5.js_practices/08_polygon)
